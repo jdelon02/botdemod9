@@ -1,0 +1,17 @@
+name: 'Responsive Image and Related'
+type: module
+core_version_requirement: ^8 || ^9
+dependencies:
+  - blazy
+  - crop
+  - field
+  - field_layout
+  - file
+  - focal_point
+  - image
+  - layout_discovery
+  - media
+  - path
+  - responsive_image
+version: 8.x-1.0
+package: 'BackOffice Thinking'

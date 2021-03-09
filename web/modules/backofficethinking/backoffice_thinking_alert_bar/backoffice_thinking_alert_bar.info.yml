@@ -1,0 +1,7 @@
+name: 'BackOffice Thinking Alert Bar'
+type: module
+description: 'BackOffice Thinking Standard Alert Bar Structure'
+core_version_requirement: ^8 || ^9
+package: 'BackOffice Thinking'
+dependencies:
+- allowed_formats
